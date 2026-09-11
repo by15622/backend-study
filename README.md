@@ -1,4 +1,4 @@
-# 📚 Backend Study
+# 🖋️ Backend Study
 
 ---
 
