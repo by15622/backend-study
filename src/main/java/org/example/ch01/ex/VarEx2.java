@@ -1,4 +1,4 @@
-package org.example.variable.ex;
+package org.example.ch01.ex;
 
 public class VarEx2 {
 

@@ -1,4 +1,4 @@
-package org.example.operator;
+package org.example.ch02;
 
 public class OperatolAdd2 {
 
