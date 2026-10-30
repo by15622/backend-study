@@ -14,12 +14,12 @@ public class ArrayEx8 {
 
     for (int i = 0; i < studentCount; i++) {
       System.out.print("번 학생의 성적을 입력하세요: ");
-      for (int j = 0; i < 3; j++) {
+      for (int j = 0; j < 3; j++) {
         System.out.println(subjects[j] + " 점수:");
         scores[i][j] = scanner.nextInt();
       }
     }
-    for (int i = 0; i < 4; i++) {
+    for (int i = 0; i < studentCount; i++) {
       int total = 0;
       for (int j = 0; j < 3; j++) {
         total += scores[i][j];
