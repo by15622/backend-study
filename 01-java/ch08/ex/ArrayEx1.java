@@ -1,4 +1,4 @@
-package org.example.ch08.ex;
+package ch08.ex;
 
 public class ArrayEx1 {
 

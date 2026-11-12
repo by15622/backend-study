@@ -1,4 +1,4 @@
-package org.example.ch01;
+package ch01;
 
 public class Var1 {
 

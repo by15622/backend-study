@@ -1,4 +1,4 @@
-package org.example.ch02;
+package ch02;
 
 public class Comp1 {
 

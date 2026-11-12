@@ -1,4 +1,4 @@
-package org.example.ch03.ex;
+package ch03.ex;
 
 public class ExchangeRateEx {
 

@@ -1,4 +1,4 @@
-package org.example.ch02.ex;
+package ch02.ex;
 
 public class OperationEx1 {
 

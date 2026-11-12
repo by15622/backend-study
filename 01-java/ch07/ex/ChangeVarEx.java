@@ -1,4 +1,4 @@
-package org.example.ch07.ex;
+package ch07.ex;
 
 
 public class ChangeVarEx {

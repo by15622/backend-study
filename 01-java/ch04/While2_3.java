@@ -1,4 +1,4 @@
-package org.example.ch04;
+package ch04;
 
 public class While2_3 {
 

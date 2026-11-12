@@ -1,4 +1,4 @@
-package org.example.ch09.ex;
+package ch09.ex;
 
 public class MethodEx3 {
 

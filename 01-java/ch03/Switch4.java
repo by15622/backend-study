@@ -1,4 +1,4 @@
-package org.example.ch03;
+package ch03;
 
 public class Switch4 {
 

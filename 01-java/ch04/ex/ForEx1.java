@@ -1,4 +1,4 @@
-package org.example.ch04.ex;
+package ch04.ex;
 
 public class ForEx1 {
 

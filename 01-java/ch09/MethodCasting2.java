@@ -1,4 +1,4 @@
-package org.example.ch09;
+package ch09;
 
 public class MethodCasting2 {
 

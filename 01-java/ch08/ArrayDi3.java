@@ -1,4 +1,4 @@
-package org.example.ch08;
+package ch08;
 
 public class ArrayDi3 {
 

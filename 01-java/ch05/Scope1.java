@@ -1,4 +1,4 @@
-package org.example.ch05;
+package ch05;
 
 public class Scope1 {
 

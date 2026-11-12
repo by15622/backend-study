@@ -1,4 +1,4 @@
-package org.example.ch06;
+package ch06;
 
 public class Casting2 {
 
